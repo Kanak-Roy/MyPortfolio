@@ -31,15 +31,3 @@ This website serves as an interactive resume and central hub for my professional
 ├── script.js           # JavaScript logic (typing animations, nav toggle)
 ├── CV/                 # Resume/CV PDF files
 └── Images/             # Profile, service, and project preview assets
-
----
-
-## 👤 Author
-
-**Kanak Roy Shanda**
-
-- 🐙 GitHub: [Visit my GitHub](https://github.com/Kanak-Roy)
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/kanak-roy-shanda-601961238/)
-- 📧 Email: [kanakroyshanda@gmail.com](mailto:kanakroyshanda@gmail.com)
-
----
